@@ -1,0 +1,16 @@
+- name: Software Engineer Keywords
+  keywords:
+      - Java
+      - R
+      - Linux
+
+- name: Database Developer Keywords
+  keywords:
+      - Oracle
+      - PostgreSQL
+      - SQL
+
+- name: Language Keywords
+  keywords:
+      - Chinese
+      - English
