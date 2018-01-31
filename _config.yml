@@ -110,3 +110,5 @@ lazy_load_disqus : false
 # ---------------- #
 google:
     analytics_id: 
+
+theme: jekyll-theme-architect
